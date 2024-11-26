@@ -29,7 +29,7 @@
                 <li><a href="#" class="nav-link">Alumni</a></li>
             	<li><a href="adminSide\login.php" class="nav-link">Admin</a></li>
                 <li><a href="tutorSide\login.php" class="nav-link">Instructor</a></li>
-                <li><a href="clientSide\login.php" class="nav-link">User</a></li>
+                <li><a href="userSide\signUpIn.php" class="nav-link">User</a></li>
         	</ul>
     	</div>
 	</nav>  <br/><br/>
